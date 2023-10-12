@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[LinkedIn](https://www.linkedin.com/in/dipanshu-singh-645821153/)
 
 <!--
 **Dipanshu-Singh-Dev/Dipanshu-Singh-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
