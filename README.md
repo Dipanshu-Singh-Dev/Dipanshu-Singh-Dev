@@ -27,8 +27,7 @@ Green Paradise is an e-commerce website dedicated to gardening enthusiasts and i
 I am always open to collaboration and new opportunities. If you have any questions, suggestions, or if you want to discuss potential projects, feel free to reach out to me:
 
 - **Email**: work.dipanshu.singh@gmail.com
-- **LinkedIn**: [Link](https://www.linkedin.com/in/dipanshu-singh-645821153/)
-- **Portfolio**: [Link](https://dipanshu-singh-dev.github.io)
-- **GitHub**: [Link](https://github.com/Dipanshu-Singh-Dev)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dipanshu-singh-dev.github.io)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-singh-645821153/)
 
 Let's create amazing web experiences together! 🚀
