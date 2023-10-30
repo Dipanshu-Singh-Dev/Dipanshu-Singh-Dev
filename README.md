@@ -30,6 +30,6 @@ I am always open to collaboration and new opportunities. If you have any questio
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dipanshu-singh-dev.github.io)
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-singh-645821153/)
 ## Github Stats:
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dipanshu-Singh-Dev&theme=dark&border_radius=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dipanshu-Singh-Dev&theme=dark)](https://git.io/streak-stats)
 
 Let's create amazing web experiences together! 🚀
