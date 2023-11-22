@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a passionate and experienced Web Developer wi
 
 Nykaa Clone is a project inspired by the popular e-commerce platform Nykaa. It showcases my skills in creating a user-friendly interface and seamless shopping experience. The project includes features such as product listings, user authentication, cart management, and payment integration, closely mirroring the functionality of the original Nykaa website.
 
-### 2. [Green Paradise](https://1ashutoshverma.github.io/Green-Paradise)
+### 2. [Green Paradise](https://green-paradiso.netlify.app)
 
 Green Paradise is an e-commerce website dedicated to gardening enthusiasts and individuals interested in gardening-related products. This project demonstrates my ability to create niche-specific platforms with a focus on a particular market. The website includes a wide range of gardening products, intuitive search and filtering options, and a secure checkout process.
 
