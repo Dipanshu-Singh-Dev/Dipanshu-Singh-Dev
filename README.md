@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my GitHub profile! I am a passionate and experienced Web Developer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack technologies. I have a strong background in creating dynamic and responsive web applications, and I'm dedicated to delivering high-quality software solutions.
+Welcome to my GitHub profile! I am a passionate Web Developer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack technologies. I have a strong background in creating dynamic and responsive web applications, and I'm dedicated to delivering high-quality software solutions.
 
 ## Projects
 
